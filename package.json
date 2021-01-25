@@ -1,0 +1,22 @@
+{
+  "name": "2106-1",
+  "version": "0.0.1",
+  "description": "Express Server for Zoom Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-0lsen/2106-1.git"
+  },
+  "author": "Alex Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-0lsen/2106-1/issues"
+  },
+  "homepage": "https://github.com/Alex-0lsen/2106-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
